@@ -9,10 +9,10 @@
   "homepage": "https://www.arcgis.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/language-python.git"
+    "url": "https://github.com/nohe427/arcgispythontoolboc.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atom/language-python/issues"
+    "url": "https://github.com/nohe427/arcgispythontoolboc/issues"
   }
 }
