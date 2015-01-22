@@ -1,12 +1,12 @@
 {
-  "name": "language-python",
-  "version": "0.30.0",
+  "name": "arcgispythontoolbox",
+  "version": "0.0.0",
   "engines": {
     "atom": "*",
     "node": "*"
   },
-  "description": "Python language support in Atom",
-  "homepage": "https://atom.github.io/language-python",
+  "description": "Python Toolbox language support in Atom",
+  "homepage": "https://www.arcgis.com",
   "repository": {
     "type": "git",
     "url": "https://github.com/atom/language-python.git"
